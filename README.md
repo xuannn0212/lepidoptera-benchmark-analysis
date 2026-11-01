@@ -7,7 +7,7 @@
 **Academic Year:** 2026  
 
 ## Project Overview
-This repository contains the codebase and documentation for my Master's Research Project (P2). The research establishes a rigorous, mathematically sound comparative benchmark for automated butterfly and moth classification across 100 distinct species. It evaluates a heavily optimized lightweight edge architecture (MobileNetV2) against an industry-standard heavy baseline (ResNet-50) to address the computational constraints and taxonomic limitations prevalent in current ecological computer vision frameworks.
+This repository contains the codebase for my Master's Research Project (P2). The research establishes a rigorous, mathematically sound comparative benchmark for automated butterfly and moth classification across 100 distinct species. It evaluates a heavily optimized lightweight edge architecture (MobileNetV2) against an industry-standard heavy baseline (ResNet-50) to address the computational constraints and taxonomic limitations prevalent in current ecological computer vision frameworks.
 
 ## Repository Contents
 * **`P2_MobileNetV2_Revise_2.ipynb`**: The Google Colab notebook containing the advanced optimization pipeline (100% unfreezing, Cosine Decay learning rate, AdamW weight decay, and Label Smoothing) and evaluation metrics for the MobileNetV2 architecture.
